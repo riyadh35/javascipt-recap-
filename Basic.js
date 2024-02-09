@@ -56,6 +56,6 @@ const name = ["riyad", "ashraful", 1567935234];
 const person = [
   { name: "riyad", age: 13, mobile: "realme" },
   { name: "ashraful", age: 12, mobile: "realme" },
-
-  ,
 ];
+
+// these all are dom (Document object MOdal)
