@@ -27,4 +27,6 @@ const company = {
 
 console.log(company.category.web.service);
 
-//
+//optional chaining
+
+console.log(company?.category?.web?.habib?.gf);
