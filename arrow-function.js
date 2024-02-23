@@ -11,3 +11,11 @@ console.log(sum);
 const addd2 = (num1, num2) => num1 + num2;
 const sum2 = addd2(12, 16);
 console.log(sum2);
+
+// default perameter
+
+function maxNumber(array = []) {
+  const max = Math.max(...array);
+  return max;
+}
+console.log(maxNumber);
