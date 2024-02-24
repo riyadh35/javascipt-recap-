@@ -16,4 +16,11 @@ const productColor = products.map((product) => product.color);
 
 // console.log(productNames);
 // console.log(productPrice);
-console.log(productColor);
+// console.log(productColor);
+
+// for each
+
+products.forEach((product) => console.log(product));
+
+//  different between map and for each
+// map do return but for each can't do return ;
