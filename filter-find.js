@@ -22,3 +22,7 @@ console.log(upPrice);
 const searchColor = products.find((product) => product.color == "green");
 
 console.log(searchColor);
+
+//  defferance between filter and find
+
+// filter give Array but find give only elements
